@@ -4,3 +4,4 @@ Updating README with new information
 Update from github
 Pushing to a remote
 "Feature2" 
+"Feature2 changes" 
